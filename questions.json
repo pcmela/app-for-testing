@@ -1,0 +1,502 @@
+[
+    {
+        "id": 0,
+        "value": "Ústava ČR samosprávu územních samosprávných celků: ",
+        "answerA": "Nezaručuje. ",
+        "answerB": "Zaručuje. ",
+        "answerC": "Zaručuje pouze v případě vyšších územních samosprávných celků. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 1,
+        "value": "Státními symboly České republiky jsou: ",
+        "answerA": "Velký a malý státní znak, státní barvy, státní vlajka, vlajka prezidenta republiky, státní pečeť a státní hymna. ",
+        "answerB": "Velký a malý státní znak, korunovační klenoty, státní vlajka a státní hymna. ",
+        "answerC": " Pouze velký státní znak a státní vlajka.",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 2,
+        "value": "Ministerstva se ve veškeré své činnosti řídí: ",
+        "answerA": "Ústavními zákony, zákony a jejich prováděcími předpisy a usneseními vlády. ",
+        "answerB": "Pouze ústavními zákony. ",
+        "answerC": "Výhradně usneseními vlády. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 3,
+        "value": "Přijaté zákony podepisuje: ",
+        "answerA": "Předseda Poslanecké sněmovny, prezident republiky a předseda vlády. ",
+        "answerB": "Předseda Poslanecké sněmovny a prezident republiky. ",
+        "answerC": "Pouze předseda Poslanecké sněmovny. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 4,
+        "value": "Volební období prezidenta republiky trvá: ",
+        "answerA": "5 let.",
+        "answerB": "7 let.",
+        "answerC": "4 roky.",
+        "correctOne": "C",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 5,
+        "value": "Jakým způsobem je volen v České republice prezident: ",
+        "answerA": "Parlamentem.",
+        "answerB": "Senátem. ",
+        "answerC": "Přímou volbou. ",
+        "correctOne": "C",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 6,
+        "value": "Vláda je odpovědna:",
+        "answerA": "Prezidentovi republiky. ",
+        "answerB": "Poslanecké sněmovně.",
+        "answerC": "Senátu.",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 7,
+        "value": "Kdo může vládě vyslovit nedůvěru: ",
+        "answerA": "Poslanecká sněmovna. ",
+        "answerB": "Prezident republiky. ",
+        "answerC": "Senát.",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 8,
+        "value": " Specializovaným soudním orgánem ochrany ústavnosti je: ",
+        "answerA": "Nejvyšší správní soud.",
+        "answerB": "Ústavní soud. ",
+        "answerC": "Nejvyšší soud.",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 9,
+        "value": "Soudce je jmenován:",
+        "answerA": "Prezidentem republiky.",
+        "answerB": "Předsedou Poslanecké sněmovny. ",
+        "answerC": "Parlamentem. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 10,
+        "value": "Nejvyšší kontrolní úřad: ",
+        "answerA": "Vykonává kontrolu hospodaření se státním majetkem a plnění státního rozpočtu. ",
+        "answerB": "Kontroluje činnost vlády. ",
+        "answerC": "Vykonává kontrolu hospodaření s veřejným majetkem podle zadání vlády.",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 11,
+        "value": "Ústřední bankou České republiky je: ",
+        "answerA": "Evropská centrální banka. ",
+        "answerB": "Česká monetární banka.",
+        "answerC": "Česká národní banka. ",
+        "correctOne": "C",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 12,
+        "value": "Do činnosti územních samosprávných celků stát: ",
+        "answerA": "Může zasahovat, jen vyžaduje-li to ochrana zákona, a jen způsobem stanoveným zákonem.",
+        "answerB": "Může zasahovat, je-li potřeba zajistit výkon samostatné působnosti. ",
+        "answerC": "Nemůže zasahovat v žádném případě. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 13,
+        "value": "Zákonodárná moc v České republice náleží: ",
+        "answerA": "Parlamentu. ",
+        "answerB": "Senátu. ",
+        "answerC": "Prezidentovi republiky. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 14,
+        "value": " Orgánům územní samosprávy: ",
+        "answerA": "Lze svěřit výkon státní správy v rozsahu nezbytném pro zajištění vnější bezpečnosti. ",
+        "answerB": "Nelze svěřit výkon státní správy. ",
+        "answerC": "Lze svěřit výkon státní správy jen tehdy, stanoví-li to zákon. ",
+        "correctOne": "C",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 15,
+        "value": "Do Poslanecké sněmovny může být zvolen: ",
+        "answerA": "Občan České republiky, který má právo volit. ",
+        "answerB": "Občan České republiky, který má právo volit a dosáhl věku 21 let. ",
+        "answerC": " Občan České republiky, který má právo volit a dosáhl věku 40 let. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 16,
+        "value": "Poslanecká sněmovna má: ",
+        "answerA": " 81 poslanců volených na dobu 5 let. ",
+        "answerB": "200 poslanců volených na dobu 4 let. ",
+        "answerC": "99 poslanců volených n dobu 4 let. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 17,
+        "value": "Návrh na zahájení řízení před Ústavním soudem může podat ten: ",
+        "answerA": " Komu takové oprávnění přiznává zákon o Ústavním soudu. ",
+        "answerB": "Pouze poslanec nebo senátor.",
+        "answerC": "Pouze prezident republiky. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 18,
+        "value": "Nuceně omezit vlastnické právo je možné:",
+        "answerA": "Kdykoli, je-li tak činěno na základě zákona nebo v odůvodněných případech na základě příkazu vlády. ",
+        "answerB": "Ve veřejném zájmu, avšak jen v případě, že je to nezbytné pro zajištění provozování hospodářské činnosti osoby, vůči níž omezení směřuje.",
+        "answerC": "Ve veřejném zájmu, a to na základě zákona a za náhradu. ",
+        "correctOne": "C",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 19,
+        "value": "Svoboda pohybu a pobytu:",
+        "answerA": "Může být omezena pouze zákonem, jestliže je to nevyhnutelné pro bezpečnost státu, udržení veřejného pořádku, ochranu zdraví nebo ochranu práv a svobod druhých a na vymezeném území též z důvodu ochrany přírody. ",
+        "answerB": "Nesmí být omezena s výjimkou případů, kdy tak ve veřejném zájmu rozhodne vláda. ",
+        "answerC": "Může být omezena, avšak pouze v zájmu ochrany života nebo zdraví osob a v rozsahu nezbytném pro ohrožení veřejného pořádku. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 20,
+        "value": "Podle Listiny základních práv a svobod platí princip, že každý může činit: ",
+        "answerA": "Co není zákonem zakázáno. ",
+        "answerB": "Pouze to, co mu povoluje zákon. ",
+        "answerC": "Vše, pokud tím nenarušuje své soukromí nebo nedotknutelnost své osoby. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 21,
+        "value": "Vrcholným orgánem moci výkonné v České republice je: ",
+        "answerA": "Vláda. ",
+        "answerB": "Prezident republiky. ",
+        "answerC": "Parlament. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 22,
+        "value": "Státní moc je vykonávaná prostřednictvím: ",
+        "answerA": "Samosprávy a státní správy. ",
+        "answerB": "Orgánů s nařizovací pravomocí. ",
+        "answerC": "Orgánů moci zákonodárné, výkonné a soudní. ",
+        "correctOne": "C",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 23,
+        "value": "Ministerstva jsou: ",
+        "answerA": "Ústřední správní úřady s dílčí věcnou působností. ",
+        "answerB": "Orgány veřejné moci s omezenou územní působností.",
+        "answerC": "Ústřední správní úřady s působností stanovenou nařízením vlády. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 24,
+        "value": "Územním samosprávným celkem v ČR není: ",
+        "answerA": "Obec.",
+        "answerB": "Okres.",
+        "answerC": "Hlavní město Praha. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 25,
+        "value": "Kontrolu nad výkonem samostatné působnosti územních samosprávných celků provádí: ",
+        "answerA": "V případě obcí krajské úřady, v případě krajů a hl. m. Prahy Ministerstvo vnitra. ",
+        "answerB": "Ministerstvo vnitra, nestanoví-li zvláštní právní předpis jinak. ",
+        "answerC": "Národní kontrolní úřad. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 26,
+        "value": "Platností právního předpisu: ",
+        "answerA": "Se rozumí stav, kdy se stal právní předpis součástí právního řádu (tzn. byl stanoveným způsobem vyhlášen). ",
+        "answerB": "Je datum uvedené v zápatí právního předpisu. ",
+        "answerC": "Je datum podepsání právního předpisu oprávněnou osobou. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 27,
+        "value": "Dnem vyhlášení ve Sbírce zákonů České republiky se právní předpis stává: ",
+        "answerA": "Platným. ",
+        "answerB": "Vždy platným a účinným. ",
+        "answerC": "Vždy platným a účinným, je-li tímto právním předpisem zákon. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 28,
+        "value": "Je možné, aby právní předpis nabyl účinnosti dříve, než nabyl platnosti?:",
+        "answerA": "Ne.",
+        "answerB": "Ano, právní předpis vždy nabývá dříve účinnosti než platnosti. ",
+        "answerC": "Ano, pouze ve výjimečných případech se souhlasem prezidenta republiky.",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 29,
+        "value": "Je v pravomoci územních samosprávných celků vydávat právní předpisy? ",
+        "answerA": "Ne, vydávání právních předpisů je vyhrazeno ústřední úrovni státní správy",
+        "answerB": "Ano",
+        "answerC": "Ano, ale pouze v případě vyšších územních samosprávných celků. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 30,
+        "value": "Právními předpisy nejvyšší právní síly v ČR jsou: ",
+        "answerA": "Ústavní zákony a vyhlášené mezinárodní smlouvy podle čl. 10 Ústavy. ",
+        "answerB": "Zákonná opatření Senátu a právní předpisy Evropské unie. ",
+        "answerC": "Nařízení vlády, právní předpisy ministerstev a jiných správních úřadů. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 31,
+        "value": "Úkoly spojené s odborným, organizačním a technickým zabezpečením činnosti vlády a jejích orgánů plní: ",
+        "answerA": "Úřad vlády České republiky.",
+        "answerB": "Poradní orgány vlády. ",
+        "answerC": "Sekretariát předsedy vlády.",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 32,
+        "value": "Zřídit nebo zrušit ministerstvo je možné: ",
+        "answerA": "Usnesením vlády. ",
+        "answerB": "Pouze zákonem. ",
+        "answerC": "Rozhodnutím prezidenta republiky. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 33,
+        "value": "Vydávání správních rozhodnutí: ",
+        "answerA": "Je součástí výkonu nevrchnostenské veřejné správy. ",
+        "answerB": "Není výkonem veřejné správy",
+        "answerC": "Je součástí výkonu vrchnostenské veřejné správy. ",
+        "correctOne": "C",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 34,
+        "value": " Státní správa: ",
+        "answerA": "Je veřejná správa uskutečňovaná státem, tzn. především státními orgány a orgány, na které stát výkon státní správy přenesl. ",
+        "answerB": "Je výkon veřejné správy spočívající ve správě územně organizovaného společenství, které si své záležitosti řeší samostatně a činí rozhodnutí přímo nebo prostřednictvím volených orgánů. ",
+        "answerC": "Je veřejná správa vykonávaná prostřednictvím soudů.",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 35,
+        "value": "Parlament je tvořen: ",
+        "answerA": "Poslaneckou sněmovnou a Úřadem vlády. ",
+        "answerB": "Poslaneckou sněmovnou a kanceláří předsedy Poslanecké sněmovny. ",
+        "answerC": "Poslaneckou sněmovnou a Senátem. ",
+        "correctOne": "C",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 36,
+        "value": "Hlavní činností Parlamentu je: ",
+        "answerA": "Výkon zákonodárné moci.",
+        "answerB": "Realizace výkonné státní moci. ",
+        "answerC": "Kontrola hospodaření orgánů státní správy. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 37,
+        "value": "Doba, která plyne mezi okamžikem nabytí platnosti a okamžikem nabytí účinnosti právního předpisu: ",
+        "answerA": "Se nestanoví, neboť právní předpisy nevstupují v účinnost, ale pouze v platnost. ",
+        "answerB": "Je legisvakanční lhůtou a je určena k tomu, aby se adresáti právního předpisu důkladně seznámili s jeho obsahem. ",
+        "answerC": "Je dobou, po kterou platí právní předpis, po jejím uplynutí ztrácí svou účinnost. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 38,
+        "value": " Zákon nemůže být zrušen: ",
+        "answerA": "Rozhodnutím Ústavního soudu. ",
+        "answerB": "Rozhodnutím prezidenta republiky. ",
+        "answerC": "Zákonem. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 39,
+        "value": "Návrhy zákona předkládá vláda Poslanecké sněmovně: ",
+        "answerA": "Písemně. ",
+        "answerB": "Ústně i písemně. ",
+        "answerC": "Ústně. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 40,
+        "value": " Nařízení kraje lze vydat: ",
+        "answerA": "Na základě a v mezích zákona, je-li k tomu kraj zákonem zmocněn. ",
+        "answerB": "Je-li nezbytné v rámci samostatné působnosti uložit povinnost.",
+        "answerC": "Je-li potřeba stanovit podmínky správně trestní odpovědnosti. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 41,
+        "value": "Pokud správní orgán vydá rozhodnutí, ačkoliv k jeho vydání není věcně příslušný, je toto rozhodnutí:",
+        "answerA": "Nezjistitelné. ",
+        "answerB": "Nesouladné. ",
+        "answerC": "Nicotné. ",
+        "correctOne": "C",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 42,
+        "value": "Pokud správní orgán považuje skutkové zjištění za dostatečné, může v rámci správního řízení vydat:",
+        "answerA": "Příkaz. ",
+        "answerB": "Usnesení o skutkovém zjištění. ",
+        "answerC": "Sdělení o skutkovém zjištění. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 43,
+        "value": "Vláda je k provedení zákona a v jeho mezích oprávněna vydávat: ",
+        "answerA": "Vyhlášky. ",
+        "answerB": "Nařízení. ",
+        "answerC": " Zákony.",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 44,
+        "value": " Rozlišujeme obce podle rozsahu výkonu přenesené působnosti ve věcech, které stanoví zvláštní zákony? ",
+        "answerA": "Ano, rozlišujeme obce základního typu, obce s pověřeným obecním úřadem a obce s rozšířenou působností. ",
+        "answerB": "Ne, nerozlišujeme, neboť všechny obce vykonávají přenesenou působnost ve stejném rozsahu. ",
+        "answerC": "Ano, členíme je na obce nižšího a vyššího typu. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 45,
+        "value": "Vydávání obecně závazných vyhlášek obce náleží do: ",
+        "answerA": "Samostatné působnosti obce. ",
+        "answerB": "Přenesené působnosti obce. ",
+        "answerC": "Samostatné nebo přenesené působnosti obce, podle toho jakým způsobem je konkrétní problematika upravena zvláštním zákonem. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 46,
+        "value": "Příspěvek ze státního rozpočtu obdrží obec: ",
+        "answerA": " Na plnění úkolů v samostatné působnosti. ",
+        "answerB": "Na plnění úkolů v přenesené působnosti.",
+        "answerC": "Na plnění úkolů v samostatné i přenesené působnosti, pokud si o ně požádá do 30. 6. předchozího kalendářního roku. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 47,
+        "value": "Mezi orgány obce nepatří ",
+        "answerA": "Starosta. ",
+        "answerB": "Obecní úřad. ",
+        "answerC": "Tajemník.",
+        "correctOne": "C",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 48,
+        "value": "Zasedání zastupitelstva obce:",
+        "answerA": "Není veřejné.",
+        "answerB": "Je veřejné. ",
+        "answerC": "Je veřejné, v případě, že tak rozhodne starosta obce. ",
+        "correctOne": "B",
+        "selected": null,
+        "error": null
+    },
+    {
+        "id": 49,
+        "value": "Zřizování obecní policie: ",
+        "answerA": "Je v pravomoci obce. ",
+        "answerB": "Je v pravomoci obce, ale je podmíněno souhlasem příslušného krajského úřadu. ",
+        "answerC": "Je v pravomoci Ministerstva vnitra, které obecní policii zřizuje na návrh příslušného zastupitelstva obce. ",
+        "correctOne": "A",
+        "selected": null,
+        "error": null
+    }
+]
